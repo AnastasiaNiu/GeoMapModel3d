@@ -1,0 +1,26 @@
+{
+  "Pathname": [
+    {
+      "Path": 0,
+      "stratumLayerPath": "E:\\ningzhenmodel\\jinzishan\\strata1.shp",
+      "stratumLinePath": "E:\\ningzhenmodel\\jinzishan\\stratalines.shp",
+      "faultLayerPath": "",
+      "direction": "X",
+      "savePath": "E:\\ningzhenmodel\\jinzishan\\model",
+      "xMax": 40425500,
+      "xMin": 40418100,
+      "yMin": 3548900,
+      "yMax": 3554500,
+      "stepLength": 60,
+      "demPath": "E:\\ningzhenmodel\\nz30dem.tif",
+      "altitudePointPath": "E:\\ningzhenmodel\\jinzishan\\atittude.shp",
+      "contourLinePath": "E:\\三维建模\\图切剖面0814new\\图切剖面0814\\图切剖面\\图切剖面\\bin\\Debug\\剖面自动生成测试数据9.2\\LE06D_WLpl.shp",
+      "elevSampleStep": 30,
+      "zZoom": 2,
+      "scale": 20,
+      "solidtypetxt": "E:\\ningzhenmodel\\jinzishan\\属性表1.xlsx",
+      "VirtualDrillResetY": 3548900,
+      "VirtualDrillStep": 10
+    }
+  ]
+}
